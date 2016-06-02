@@ -1,6 +1,6 @@
 {
   "run_list": [
-
+    "recipe[htop]"
   ],
   "automatic": {
     "ipaddress": "192.168.1.201"
