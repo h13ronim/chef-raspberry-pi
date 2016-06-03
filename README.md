@@ -1,6 +1,7 @@
 # Raspberry Pi with Chef Solo (Example configuration)
 
 * Install Raspbian Jessie Lite on Raspberry Pi. For example via [BerryBoot](http://www.berryterminal.com/doku.php/berryboot).
+* Copy your SSH public key to Raspberry Pi.
 * Install [ChefDK](https://downloads.chef.io/chef-dk/) on your machine.
 * Install [knife solo](https://matschaffer.github.io/knife-solo/):
 
